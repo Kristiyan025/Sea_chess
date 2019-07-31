@@ -1,0 +1,44 @@
+G:\c#_programms\sea_chess\sea_chess\bin\Debug\sea_chess.exe.config
+G:\c#_programms\sea_chess\sea_chess\bin\Debug\sea_chess.exe
+G:\c#_programms\sea_chess\sea_chess\bin\Debug\sea_chess.pdb
+G:\c#_programms\sea_chess\sea_chess\obj\Debug\sea_chess.csprojAssemblyReference.cache
+G:\c#_programms\sea_chess\sea_chess\obj\Debug\sea_chess.Form1.resources
+G:\c#_programms\sea_chess\sea_chess\obj\Debug\sea_chess.Properties.Resources.resources
+G:\c#_programms\sea_chess\sea_chess\obj\Debug\sea_chess.csproj.GenerateResource.cache
+G:\c#_programms\sea_chess\sea_chess\obj\Debug\sea_chess.csproj.CoreCompileInputs.cache
+G:\c#_programms\sea_chess\sea_chess\obj\Debug\sea_chess.exe
+G:\c#_programms\sea_chess\sea_chess\obj\Debug\sea_chess.pdb
+F:\c#_programms\sea_chess\sea_chess\obj\Debug\sea_chess.csprojResolveAssemblyReference.cache
+F:\c#_programms\sea_chess\sea_chess\obj\Debug\sea_chess.Form1.resources
+F:\c#_programms\sea_chess\sea_chess\obj\Debug\sea_chess.Properties.Resources.resources
+F:\c#_programms\sea_chess\sea_chess\obj\Debug\sea_chess.csproj.GenerateResource.Cache
+F:\c#_programms\sea_chess\sea_chess\obj\Debug\sea_chess.csproj.CoreCompileInputs.cache
+F:\c#_programms\sea_chess\sea_chess\obj\Debug\sea_chess.exe
+F:\c#_programms\sea_chess\sea_chess\obj\Debug\sea_chess.pdb
+F:\c#_programms\sea_chess\sea_chess\bin\Debug\sea_chess.exe.config
+F:\c#_programms\sea_chess\sea_chess\bin\Debug\sea_chess.exe
+F:\c#_programms\sea_chess\sea_chess\bin\Debug\sea_chess.pdb
+F:\c#_programms\sea_chess\sea_chess\obj\Debug\sea_chess.rmclose.resources
+G:\c#_programms\sea_chess\sea_chess\obj\Debug\sea_chess.rmclose.resources
+F:\see 6ah\sea_chess\bin\Debug\sea_chess.exe.config
+F:\see 6ah\sea_chess\bin\Debug\sea_chess.exe
+F:\see 6ah\sea_chess\bin\Debug\sea_chess.pdb
+F:\see 6ah\sea_chess\obj\Debug\sea_chess.csprojResolveAssemblyReference.cache
+F:\see 6ah\sea_chess\obj\Debug\sea_chess.Form1.resources
+F:\see 6ah\sea_chess\obj\Debug\sea_chess.Properties.Resources.resources
+F:\see 6ah\sea_chess\obj\Debug\sea_chess.rmclose.resources
+F:\see 6ah\sea_chess\obj\Debug\sea_chess.csproj.GenerateResource.Cache
+F:\see 6ah\sea_chess\obj\Debug\sea_chess.csproj.CoreCompileInputs.cache
+F:\see 6ah\sea_chess\obj\Debug\sea_chess.exe
+F:\see 6ah\sea_chess\obj\Debug\sea_chess.pdb
+H:\Codes\C#\Задачи\Tic-Tac-Toe\see 6ah\sea_chess\bin\Debug\sea_chess.exe.config
+H:\Codes\C#\Задачи\Tic-Tac-Toe\see 6ah\sea_chess\bin\Debug\sea_chess.exe
+H:\Codes\C#\Задачи\Tic-Tac-Toe\see 6ah\sea_chess\bin\Debug\sea_chess.pdb
+H:\Codes\C#\Задачи\Tic-Tac-Toe\see 6ah\sea_chess\obj\Debug\sea_chess.csprojAssemblyReference.cache
+H:\Codes\C#\Задачи\Tic-Tac-Toe\see 6ah\sea_chess\obj\Debug\sea_chess.Form1.resources
+H:\Codes\C#\Задачи\Tic-Tac-Toe\see 6ah\sea_chess\obj\Debug\sea_chess.Properties.Resources.resources
+H:\Codes\C#\Задачи\Tic-Tac-Toe\see 6ah\sea_chess\obj\Debug\sea_chess.rmclose.resources
+H:\Codes\C#\Задачи\Tic-Tac-Toe\see 6ah\sea_chess\obj\Debug\sea_chess.csproj.GenerateResource.cache
+H:\Codes\C#\Задачи\Tic-Tac-Toe\see 6ah\sea_chess\obj\Debug\sea_chess.csproj.CoreCompileInputs.cache
+H:\Codes\C#\Задачи\Tic-Tac-Toe\see 6ah\sea_chess\obj\Debug\sea_chess.exe
+H:\Codes\C#\Задачи\Tic-Tac-Toe\see 6ah\sea_chess\obj\Debug\sea_chess.pdb
